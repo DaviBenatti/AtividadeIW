@@ -1,2 +1,1 @@
-# AtividadeIW
-Repositório para armazenar exercícios de IW
+# https://davibenatti.github.io/AtividadeIW/
